@@ -1,2 +1,2 @@
-language = "julia"
-run = "indludet(\"bot.jl\")"
+language = "go"
+run = "go run ."
